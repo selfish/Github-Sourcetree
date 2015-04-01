@@ -1,2 +1,2 @@
-# Github-Sourcetree
-A Chrome extension to add cloning in Sourcetree for GitHub
+# Github Clone in Sourcetree
+Clone GitHub repositories in sourcetree with a single click.
