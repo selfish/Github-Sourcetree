@@ -14,7 +14,7 @@ function genCloneButton(protocol, cloneUrl) {
 
 function getCloneURL(branch, cloneUrl) {
     branch = branch || "master";
-    return "sourcetree://checkoutRef?ref=" + branch + "&cloneUrl=" + cloneUrl + "&type=github";
+    return "sourcetree://checkoutRef?ref=" + branch + "&cloneUrl=" + cloneUrl + "&type=bitbucket";
 }
 
 // Create a new section for Sourcetree buttons:
